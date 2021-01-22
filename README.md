@@ -11,4 +11,4 @@ Huom. VMWaren asetukset ovat konekohtaisia. Muuta oman kotikoneesi asetukset vas
 Asennushakemisto | C:\Programfiles
 Käyttäjätunnus | MikaV
 
-Edellä olevasta taulukosta
+Edellä olevasta taulukosta.
